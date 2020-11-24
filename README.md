@@ -17,5 +17,5 @@
 
 - 生成词云
 
-    https://github.com/fuqiuai/wordCloud
+    - https://github.com/fuqiuai/wordCloud
 
