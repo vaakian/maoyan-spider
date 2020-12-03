@@ -1,6 +1,4 @@
-def print_hi(name):
-    print(f'Hi, {name}')
-
+import spider
 
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print(spider.get_movies())
